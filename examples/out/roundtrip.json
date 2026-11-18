@@ -1,0 +1,13 @@
+{
+  "sheets_added": [],
+  "sheets_removed": [],
+  "cells_added": 0,
+  "cells_removed": 0,
+  "cells_changed": 0,
+  "drift": [],
+  "max_drift": 0,
+  "drift_count": 0,
+  "clean": true,
+  "input": "examples/in/sample.xlsx",
+  "roundtrip_file": "/tmp/univer-office-snap-rt.xlsx"
+}
